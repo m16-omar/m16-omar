@@ -48,7 +48,6 @@ My core expertise is in **Flutter and Dart**, but I also work across the full st
 
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Angravity-FF6B35?style=for-the-badge&logo=flutter&logoColor=white" alt="Angravity" />
   <img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logo=gravityforms&logoColor=white" alt="Antigravity" />
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
