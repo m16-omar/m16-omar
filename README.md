@@ -1,6 +1,6 @@
 # Hi, I'm Umar Abdullahi 👋
 
-### Flutter & Full-Stack Developer
+### Mobile Developer
 
 I'm a passionate software developer focused on building modern, scalable, and user-friendly mobile and web applications.
 
