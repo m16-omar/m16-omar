@@ -60,7 +60,7 @@ My core expertise is in **Flutter and Dart**, but I also work across the full st
 
 * 📱 **Mobile:** Flutter, Dart, Android & iOS
 * 🏗️ **Architecture:** Clean Architecture & MVVM
-* ⚡ **State Management:** Riverpod
+* ⚡ **State Management:** Riverpod, Provider, BLoC
 * 🌐 **Frontend:** React.js, Next.js, JavaScript & Tailwind CSS
 * ⚙️ **Backend:** Python, Django, PHP & Laravel
 * 🔥 **Cloud & Services:** Firebase & REST APIs
